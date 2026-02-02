@@ -8,7 +8,7 @@ Hands-on lab exploring large-scale geospatial analytics with Microsoft Fabric an
 ## Documentation
 
 - [Lab Overview](docs/01-overview.md)
-- [Lab 1 – Getting Started with Fabric](docs/02-lab-1-getting-started.md)
-- [Lab 2 – Creating, Reading, and Writing Spatial Data](docs/03-lab-2-create-read-write.md)
-- [Lab 3 – Spatial Operations and Properties](docs/04-lab-3-spatial-operations.md)
-- [Lab 4 – Trends, Aggregation, and Hot Spot Analysis](docs/05-lab-4-trends-hotspots.md)
+- [Lab 1 – Getting Started with Fabric](docs/lab1 - activities overview.md)
+- [Lab 2 – Creating, Reading, and Writing Spatial Data](docs/lab2 - activities overview.md)
+- [Lab 3 – Spatial Operations and Properties](docs/lab3 - activities overview.md)
+- [Lab 4 – Trends, Aggregation, and Hot Spot Analysis](docs/lab4 - activities overview.md)
