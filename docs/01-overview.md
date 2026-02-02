@@ -13,7 +13,7 @@ Participants learn how to:
 - Perform spatial aggregation, clustering, and hotspot analysis
 - Analyze spatial and temporal trends
 - Visualize results using geospatial plotting capabilities
-![Overview of the GeoAnalytics Hands-on Lab](images/lab1/<image-name>.png)
+![Overview of the GeoAnalytics Hands-on Lab](images/lab1/docs/images/lab1/fabricscreenshot1.png)
 > ⚠️ **Authoritative Instructions**
 > All step-by-step lab instructions are delivered via CloudLabs.
 > This repository provides structure and context only.
