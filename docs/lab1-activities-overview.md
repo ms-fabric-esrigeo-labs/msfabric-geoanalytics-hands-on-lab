@@ -1,4 +1,4 @@
-# Lab 1 — Getting Started with Fabric Notebooks
+# Lab 1 — Getting Started with Fabric Notebooks (1 Hour)
 
 This lab focuses on initial setup and validation of the Microsoft Fabric
 environment used throughout the series.
